@@ -17,9 +17,18 @@
 # - url: https://a.c
 # - url: apple
 
-# news
+# New
 - url: https://nrc.nl/rss
   name: NRC
   tags: [news]
+- url: https://voxweb.nl/rss
+  name: VOX 
+  tags: [news]
 
-# http://eerstehulpbijplaatopnamen.substack.com/feed
+# Music
+- url: http://eerstehulpbijplaatopnamen.substack.com/feed
+  name: Nielsbrief
+  tags: [music]
+- url: http://hiphopinjesmoel.com.com/rss
+  name: HipHop In je Smoel
+  tags: [music]
