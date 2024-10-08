@@ -21,9 +21,9 @@
 - url: https://nrc.nl/rss
   name: NRC
   tags: [news]
-- url: https://voxweb.nl/rss
-  name: VOX 
-  tags: [news]
+# - url: https://voxweb.nl/rss
+#   name: VOX 
+#   tags: [news]
 
 # Music
 - url: http://eerstehulpbijplaatopnamen.substack.com/feed
