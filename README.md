@@ -1,5 +1,8 @@
 <p align="center">
 <h3 align="center">RSS2Pocket</h3>
+<p  align="center">Bedoelt om nieuwsartikelen op de Kobo ereader te lezen.<br>
+RSS feeds -> Pocket -> Kobo ereader </p2>
+
 
 <p align="center">
 An awesome tool to save articles from RSS feed to Pocket automatically.
